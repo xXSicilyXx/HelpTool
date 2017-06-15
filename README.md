@@ -17,5 +17,5 @@ Help Tool like Habbo.it
 
 <img src="OfficialHelpTool.PNG" width="100%" height="auto" />
 
-<b>LIVE DEMO HOTEL: </b><em>http://sicilyhotel.zapto.org/</em><br />
-<b>LIVE DEMO HELP: </b><em>http://sicilyhotel.zapto.org/help</em>
+<b>LIVE DEMO HOTEL: </b><em>http://sicilyhotel.zapto.org/</em><right><b>LIVE DEMO HELP: </b><em>http://sicilyhotel.zapto.org/help</em></right>
+
