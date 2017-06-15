@@ -13,10 +13,6 @@
 <li>Iniziata la programmazione della nuova richiesta di aiuto. (25%)</li>
 </ul>
 
-<img src="OfficialHelpTool.PNG" width="100%" height="auto" />
-
-<b>LIVE DEMO HOTEL: </b><em>http://sicilyhotel.zapto.org/</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LIVE DEMO HELP: </b><em>http://sicilyhotel.zapto.org/help</em></right>
-
 # Official Help Tool EN
 
 <em>Languages used: PHP, MYSQL, HTML, CSS, JS</em>
@@ -35,4 +31,3 @@
 <img src="OfficialHelpTool.PNG" width="100%" height="auto" />
 
 <b>LIVE DEMO HOTEL: </b><em>http://sicilyhotel.zapto.org/</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LIVE DEMO HELP: </b><em>http://sicilyhotel.zapto.org/help</em></right>
-
